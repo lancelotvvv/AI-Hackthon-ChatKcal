@@ -4,9 +4,6 @@ from langchain.llms import OpenAI
 from langchain import PromptTemplate, LLMChain
 # from langchain.memory import ConversationBufferMemory
 
-my_api_key_yunfei = "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"
-os.environ['OPENAI_API_KEY'] = my_api_key_yunfei
-
 st.title('''⭐🍇🍉🍍ChatKcal🥭🍎🥝⭐
           🍽️ 🌿Your Personal AI Nutritionist Assitant
           ''')

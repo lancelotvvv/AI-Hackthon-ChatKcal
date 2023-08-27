@@ -10,7 +10,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 import pandas as pd
 # from langchain.memory import ConversationBufferMemory
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 
 st.title('''⭐🍇🍉🍍ChatKcal🥭🍎🥝⭐
           🍽️ 🌿Your Personal AI Nutritionist Assitant
